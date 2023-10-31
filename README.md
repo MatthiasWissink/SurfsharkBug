@@ -6,7 +6,7 @@ New (default) Blazor Server project. Two things are changed/added.
 # Steps to reproduce
 Tested on Edge and Chrome with dotnet version 7.0.403
 1. Install Surfshark extension (connecting makes no difference, important is that it is installed)
-2. Cd into cd **.\SurfsharkBug\** and run the project with **dotnet run**
+2. Cd into cd .\SurfsharkBug\ and run the project with **dotnet run**
 3. Navigate to the provided url (http://localhost:5292)
 4. Refresh the page a few times
 
